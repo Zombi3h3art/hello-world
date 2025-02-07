@@ -7,11 +7,14 @@ public class HelloWorld
       
       double letter = 1;
       letter = letter + 1;
-      
       double x; 
       x += 10;
-      // x = x + 10;
       x = 2;
+      // x = x + 10;
+      // x += 10;
+      
+      
+      
       
       
       // main() is a Method
