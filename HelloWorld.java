@@ -2,6 +2,9 @@ public class HelloWorld
 {
    public static void main(String[] args)
    {
+      System.out.println(" Hello World " + x);
+      System.out.println("Program modified, but able to revert to original version using GitHub Desktop.");
+      
       double letter = 1;
       letter = letter + 1;
       double x; 
@@ -13,7 +16,7 @@ public class HelloWorld
       
       
       
-      System.out.println(" Hello World " + x);
+      
       // main() is a Method
       // System. is a class
       // .out. is a object
